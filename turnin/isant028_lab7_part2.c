@@ -8,6 +8,9 @@
  *	code, is my own original work.
  *
  *  DEMO LINK: 
+ * 
+ * MAX VALUE: 1010001111 //value saw with flashlight 
+ * MIN VALUE: 0000110000 //value saw when photoresistor was covered
  */
 
 #include <avr/io.h>
